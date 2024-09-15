@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "\"constantmusic.title\"",
+        "source_string": "Continuous Music Settings",
+        "translation": "音楽の連続設定",
+        "context": " -> constantmusic.title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.timer\"",
+        "source_string": "Set the time delay between music tracks.",
+        "translation": "音楽トラック間の時間遅延を設定します。",
+        "context": " -> constantmusic.option.timer",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option\"",
+        "source_string": "Music Delay",
+        "translation": "音楽の遅延",
+        "context": " -> constantmusic.option",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.minutes_and_seconds\"",
+        "source_string": "%s minutes %s seconds between tracks",
+        "translation": "%s 分 %s 秒間のトラック間",
+        "context": " -> constantmusic.option.minutes_and_seconds",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.seconds\"",
+        "source_string": "%s seconds between tracks",
+        "translation": "%s 秒間のトラック間",
+        "context": " -> constantmusic.option.seconds",
+        "labels": null,
+        "max_length": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "\"constantmusic.title\"",
+        "source_string": "Continuous Music Settings",
+        "translation": "تنظیمات پیوسته موسیقی",
+        "context": " -> constantmusic.title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.timer\"",
+        "source_string": "Set the time delay between music tracks.",
+        "translation": "تأخیر زمانی بین آهنگ های موسیقی را تنظیم کنید.",
+        "context": " -> constantmusic.option.timer",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option\"",
+        "source_string": "Music Delay",
+        "translation": "تاخیر موسیقی",
+        "context": " -> constantmusic.option",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.minutes_and_seconds\"",
+        "source_string": "%s minutes %s seconds between tracks",
+        "translation": "%s دقیقه %s ثانیه بین آهنگ ها",
+        "context": " -> constantmusic.option.minutes_and_seconds",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.seconds\"",
+        "source_string": "%s seconds between tracks",
+        "translation": "%s ثانیه بین آهنگ ها",
+        "context": " -> constantmusic.option.seconds",
+        "labels": null,
+        "max_length": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "\"constantmusic.title\"",
+        "source_string": "Continuous Music Settings",
+        "translation": "Dejinta Muusiga oo Joogta ah",
+        "context": " -> constantmusic.title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.timer\"",
+        "source_string": "Set the time delay between music tracks.",
+        "translation": "U deji wakhtiga daahitaanka u dhexeeya raadadka muusiga.",
+        "context": " -> constantmusic.option.timer",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option\"",
+        "source_string": "Music Delay",
+        "translation": "Dib u dhigista Muusiga",
+        "context": " -> constantmusic.option",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.minutes_and_seconds\"",
+        "source_string": "%s minutes %s seconds between tracks",
+        "translation": "%s daqiiqado %s ilbiriqsi inta udhaxeysa wadooyinka",
+        "context": " -> constantmusic.option.minutes_and_seconds",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.seconds\"",
+        "source_string": "%s seconds between tracks",
+        "translation": "%s ilbiriqsi inta u dhaxaysa wadooyinka",
+        "context": " -> constantmusic.option.seconds",
+        "labels": null,
+        "max_length": null
+    }
+]

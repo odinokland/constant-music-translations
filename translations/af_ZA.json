@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "\"constantmusic.title\"",
+        "source_string": "Continuous Music Settings",
+        "translation": "Deurlopende musiekinstellings",
+        "context": " -> constantmusic.title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.timer\"",
+        "source_string": "Set the time delay between music tracks.",
+        "translation": "Stel die tydsvertraging tussen musieksnitte.",
+        "context": " -> constantmusic.option.timer",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option\"",
+        "source_string": "Music Delay",
+        "translation": "Musiek Vertraging",
+        "context": " -> constantmusic.option",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.minutes_and_seconds\"",
+        "source_string": "%s minutes %s seconds between tracks",
+        "translation": "%s minute %s sekondes tussen snitte",
+        "context": " -> constantmusic.option.minutes_and_seconds",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.seconds\"",
+        "source_string": "%s seconds between tracks",
+        "translation": "%s sekondes tussen snitte",
+        "context": " -> constantmusic.option.seconds",
+        "labels": null,
+        "max_length": null
+    }
+]

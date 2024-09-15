@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "\"constantmusic.title\"",
+        "source_string": "Continuous Music Settings",
+        "translation": "ನಿರಂತರ ಸಂಗೀತ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+        "context": " -> constantmusic.title",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.timer\"",
+        "source_string": "Set the time delay between music tracks.",
+        "translation": "ಸಂಗೀತ ಟ್ರ್ಯಾಕ್‌ಗಳ ನಡುವೆ ಸಮಯ ವಿಳಂಬವನ್ನು ಹೊಂದಿಸಿ.",
+        "context": " -> constantmusic.option.timer",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option\"",
+        "source_string": "Music Delay",
+        "translation": "ಸಂಗೀತ ವಿಳಂಬ",
+        "context": " -> constantmusic.option",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.minutes_and_seconds\"",
+        "source_string": "%s minutes %s seconds between tracks",
+        "translation": "ಟ್ರ್ಯಾಕ್‌ಗಳ ನಡುವೆ %s ನಿಮಿಷಗಳು %s ಸೆಕೆಂಡುಗಳು",
+        "context": " -> constantmusic.option.minutes_and_seconds",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "\"constantmusic.option.seconds\"",
+        "source_string": "%s seconds between tracks",
+        "translation": "ಟ್ರ್ಯಾಕ್‌ಗಳ ನಡುವೆ %s ಸೆಕೆಂಡುಗಳು",
+        "context": " -> constantmusic.option.seconds",
+        "labels": null,
+        "max_length": null
+    }
+]
