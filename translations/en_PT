@@ -1,0 +1,7 @@
+{
+  "constantmusic.title": "Constant Shanties Riggings",
+  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option": "Shanty Delay",
+  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
+  "constantmusic.option.seconds": "%s seconds between songs"
+}
