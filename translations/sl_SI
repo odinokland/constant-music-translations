@@ -1,7 +1,7 @@
 {
   "constantmusic.title": "Neprekinjene glasbene nastavitve",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "Nastavite časovni zamik med pesmimi.",
   "constantmusic.option": "Zakasnitev glasbe",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "%s minut %s sekund med pesmimi",
+  "constantmusic.option.seconds": "%s sekund med skladbami"
 }
