@@ -1,6 +1,6 @@
 {
   "constantmusic.title": "Continua Musica Optiones",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "Inter carmina pone morae tempus.",
   "constantmusic.option": "Musica Mora",
   "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
   "constantmusic.option.seconds": "%s seconds between songs"
