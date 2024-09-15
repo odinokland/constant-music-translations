@@ -1,0 +1,7 @@
+{
+  "constantmusic.title": "Настройки за непрекъсната музика",
+  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option": "Забавяне на музиката",
+  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
+  "constantmusic.option.seconds": "%s seconds between songs"
+}
