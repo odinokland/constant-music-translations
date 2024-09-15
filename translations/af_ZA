@@ -1,7 +1,7 @@
 {
   "constantmusic.title": "Deurlopende musiekinstellings",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "Stel die tydsvertraging tussen liedjies.",
   "constantmusic.option": "Musiek Vertraging",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "%s minute %s sekondes tussen liedjies",
+  "constantmusic.option.seconds": "%s sekondes tussen liedjies"
 }
