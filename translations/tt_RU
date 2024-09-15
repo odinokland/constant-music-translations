@@ -2,6 +2,6 @@
   "constantmusic.title": "Даими музыка көйләнмәләре",
   "constantmusic.option.timer": "Songsырлар арасында вакытны тоткарлагыз.",
   "constantmusic.option": "Музыка тоткарлануы",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "Треклар арасында %s минут %s секунд",
+  "constantmusic.option.seconds": "Треклар арасында %s секунд"
 }
