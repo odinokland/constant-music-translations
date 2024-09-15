@@ -1,7 +1,7 @@
 {
   "constantmusic.title": "Kontinuierliche Musikeinstellungen",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "Stellen Sie die Zeitverzögerung zwischen den Songs ein.",
   "constantmusic.option": "Musikverzögerung",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "%s Minuten %s Sekunden zwischen den Liedern",
+  "constantmusic.option.seconds": "%s Sekunden zwischen den Liedern"
 }
