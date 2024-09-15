@@ -1,0 +1,7 @@
+{
+  "constantmusic.title": "Pengaturan Musik Berkelanjutan",
+  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option": "Penundaan Musik",
+  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
+  "constantmusic.option.seconds": "%s seconds between songs"
+}
