@@ -1,7 +1,7 @@
 {
   "constantmusic.title": "Ρυθμίσεις Συνεχούς Μουσικής",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "Ρυθμίστε τη χρονική καθυστέρηση μεταξύ των τραγουδιών.",
   "constantmusic.option": "Καθυστέρηση Μουσικής",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "%s λεπτά %s δευτερόλεπτα μεταξύ των τραγουδιών",
+  "constantmusic.option.seconds": "%s δευτερόλεπτα μεταξύ των τραγουδιών"
 }
