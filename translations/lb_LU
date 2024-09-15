@@ -1,7 +1,7 @@
 {
   "constantmusic.title": "Kontinuéierlech Musek Astellunge",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "Setzt d'Zäitverzögerung tëscht Lidder.",
   "constantmusic.option": "Musek Verspéidung",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "%s Minutten %s Sekonnen tëscht Lidder",
+  "constantmusic.option.seconds": "%s Sekonnen tëscht Lidder"
 }
