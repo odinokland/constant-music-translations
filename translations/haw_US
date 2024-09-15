@@ -1,7 +1,7 @@
 {
   "constantmusic.title": "Hoʻonohonoho Mele mau",
-  "constantmusic.option.timer": "Set the time delay between songs.",
+  "constantmusic.option.timer": "E hoʻopaʻa i ka manawa lohi ma waena o nā mele.",
   "constantmusic.option": "Hoʻopaneʻe mele",
-  "constantmusic.option.minutes_and_seconds": "%s minutes %s seconds between songs",
-  "constantmusic.option.seconds": "%s seconds between songs"
+  "constantmusic.option.minutes_and_seconds": "%s minuke %s kekona ma waena o nā mele",
+  "constantmusic.option.seconds": "%s kekona ma waena o nā mele"
 }
